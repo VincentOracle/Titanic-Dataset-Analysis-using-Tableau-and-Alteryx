@@ -13,7 +13,6 @@
 ![titanic-data-analysis-3](https://github.com/user-attachments/assets/8e348bff-fd0a-41d0-9e2c-018634c2c447)
 ![titanic-data-analysis-2](https://github.com/user-attachments/assets/4f20c2d9-397f-4b1a-bcc3-b8c5157ae0e4)
 ![titanic-data-analysis-1](https://github.com/user-attachments/assets/8d3bab65-c620-477f-a91a-6cbd050d1e94)
-![titanic-data-analysis-23](https://github.com/user-attachments/assets/a951f327-080a-4e67-8c71-bd5dff6559b4)
 ![titanic-data-analysis-22](https://github.com/user-attachments/assets/dfe5ab0c-61da-4f00-8112-f792922c3b7c)
 ![titanic-data-analysis-21](https://github.com/user-attachments/assets/f74f9bd6-25d7-4bf9-9201-107d43710c50)
 ![titanic-data-analysis-20](https://github.com/user-attachments/assets/d889fc9c-3179-4d01-b5ec-e6f1952526e5)
@@ -23,3 +22,4 @@
 ![titanic-data-analysis-16](https://github.com/user-attachments/assets/6facbafc-ee77-42e2-ba30-f1bd5aef9013)
 ![titanic-data-analysis-15](https://github.com/user-attachments/assets/04ef8793-cab8-4809-9f7d-0a35c66eac73)
 ![titanic-data-analysis-14](https://github.com/user-attachments/assets/bedbcde4-3d4a-4a81-b7bd-ccb6a0073848)
+![titanic-data-analysis-23](https://github.com/user-attachments/assets/a951f327-080a-4e67-8c71-bd5dff6559b4)
