@@ -30,6 +30,9 @@ A comprehensive data analysis and predictive modeling project using the classic 
 
 ![titanic-data-analysis-8](https://github.com/user-attachments/assets/542b22ee-037a-4ba0-bd4d-2b3ce9fe178c)
 
+![titanic-data-analysis-11](https://github.com/user-attachments/assets/f28422fd-2ee8-4dd5-a37d-3cd28c8df713)
+
+![titanic-data-analysis-12](https://github.com/user-attachments/assets/98580b28-8853-47ac-b7b4-39f017d04b4d)
 
 ## 🛠️ Tech Stack
 | **Tool** | **Purpose** |
@@ -39,6 +42,11 @@ A comprehensive data analysis and predictive modeling project using the classic 
 | **R** | Statistical analysis & logistic regression |
 | **MongoDB** | Data aggregation & query analysis |
 | **Python** | Data cleaning & supplementary analysis |
+
+![titanic-data-analysis-3](https://github.com/user-attachments/assets/96cc4bd1-ded8-43f5-baa7-cf0f260135f2)
+
+
+![titanic-data-analysis-10](https://github.com/user-attachments/assets/531559a5-0c01-40e8-886a-d15bb9172062)
 
 ## 📁 Project Structure
 ```
