@@ -100,6 +100,8 @@ source("r-analysis/main_analysis.R")
 ![titanic-data-analysis-9](https://github.com/user-attachments/assets/40deef42-b1ee-4066-a215-154d02479b6b)
 
 
+![titanic-data-analysis-23](https://github.com/user-attachments/assets/4124702e-696a-447b-8d29-231a527f8694)
+
 ## 📞 Contact
 **Vincent Ouma**  
 📧 oumawere2001@gmail.com  
@@ -110,7 +112,3 @@ source("r-analysis/main_analysis.R")
 *Last Updated: January 2026*  
 *Dataset Source: Kaggle Titanic Competition*  
 *License: MIT*
-
-![titanic-data-analysis-23](https://github.com/user-attachments/assets/4124702e-696a-447b-8d29-231a527f8694)
-
-
